@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=faf0ca&height=180&section=header&text=Welcom%20To%20Mina's%20Github&fontSize=60&fontColor=fff&stroke=f4d58d&animation=blinking" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=faf0ca&height=180&section=header&text=Welcom%20To%20Mina's%20Github&fontSize=65&fontColor=fff&stroke=f4d58d&strokeWidth=2&animation=blinking" />
 </div>
 
+<br>
 <br>
 <br>
 
@@ -41,7 +42,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/apachetomcat-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/apachetomcat-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=000" />&nbsp
 </div>
 
 <br>
